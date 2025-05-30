@@ -55,7 +55,7 @@ English 3 Honors focuses on American literature from its beginnings to contempor
 - Read and analyze selected short stories and poems
 - Discuss current themes and trends
 
-### Week 17: Resdahfjasdg. midtrms
+### Week 17: Midterms
 
 ### Week 18-19: Research and Writing Skills
 - Research project on a chosen American author or literary work
