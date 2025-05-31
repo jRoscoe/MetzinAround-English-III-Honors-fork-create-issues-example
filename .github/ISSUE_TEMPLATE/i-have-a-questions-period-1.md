@@ -1,5 +1,5 @@
 ---
-name: I have a Question
+name: P1 I have a Question
 about: For questions about class assignments
 title: DATE [month-day] - student name - topic
 labels: P1 help wanted 
